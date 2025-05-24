@@ -31,28 +31,7 @@ quiz-game/
 ├── background.jpg # Background image
 └── icon-logo.jpg # Start button background
 
-bash
-Copy
-Edit
 
-## 🚀 How to Run
-
-To run the game locally:
-
-1. **Clone or Download** the repository:
-   ```bash
-   git clone https://github.com/waleed39118/quiz-game.git
-Open the project folder:
-
-bash
-Copy
-Edit
-cd quiz-game
-Launch index.html in your browser:
-
-Double-click the file, or
-
-Use a live server extension (e.g., in VS Code)
 
 📌 No installation or build tools required! Just open in any modern browser.
 
