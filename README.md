@@ -80,7 +80,7 @@ Introduce difficulty levels
 Implement accessibility improvements
 
 📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the waleed39118 License .
 
 👨‍💻 Author
 waleed39118 – (https://github.com/waleed39118/Quiz-Game)
