@@ -18,7 +18,6 @@ An interactive **Quiz Game** built with HTML, CSS, and JavaScript. This project 
 |--------------|----------------|-------------|
 | ![start screen](images/start.jpg) | ![quiz screen](images/quiz.jpg) | ![result screen](images/result.jpg) |
 
-*(Replace with actual screenshots if available)*
 
 ## 📁 Folder Structure
 
