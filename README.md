@@ -47,11 +47,9 @@ Font Awesome – Icons
 Google Fonts – Typography
 
 🔧 Possible Enhancements
-Add sound effects for answer feedback
+ sound effects for answer feedback
 
-Use localStorage to save high scores
-
-Add multiple quiz categories
+multiple quiz categories
 
 Introduce difficulty levels
 
