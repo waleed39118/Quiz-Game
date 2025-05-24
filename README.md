@@ -1,6 +1,7 @@
 # 🎮 Quiz Game - First Project
 
-An interactive **Quiz Game** built with HTML, CSS, and JavaScript. This project is designed to be beginner-friendly and demonstrates dynamic web UI behavior, user interaction, and responsive feedback through animations and timed challenges.
+An interactive **Quiz Game** built with HTML, CSS, and JavaScript. 
+This project is designed to be beginner-friendly and demonstrates dynamic web UI behavior, user interaction, and responsive feedback through animations and timed challenges.
 
 ## 🧠 Features
 
@@ -16,22 +17,17 @@ An interactive **Quiz Game** built with HTML, CSS, and JavaScript. This project 
 
 | Start Screen | Quiz Interface | Result Box |
 |--------------|----------------|-------------|
-| ![start screen](images/start.jpg) | ![quiz screen](images/quiz.jpg) | ![result screen](images/result.jpg) |
+| ![start screen](images/Start Screen.jpg) | ![quiz screen](images/Quiz Interface.jpg) | ![result screen](images/Result Box.jpg) |
 
 
 ## 📁 Folder Structure
 
-quiz-game/
-│
-├── index.html # Main HTML file
-├── style.css # Stylesheet for UI and animations
-├── Questions.js # Questions array (multiple-choice format)
-├── app.js # Logic for question flow, timing, scoring
-└── images/
-├── background.jpg # Background image
-└── icon-logo.jpg # Start button background
-
-
+📁 quiz-game/
+├── index.html
+├── style.css
+├── Questions.js
+├── app.js
+└── README.md
 
 📌 No installation or build tools required! Just open in any modern browser.
 
@@ -49,14 +45,20 @@ Google Fonts – Typography
 🔧 Possible Enhancements
  sound effects for answer feedback
 
-multiple quiz categories
+▶️ How to Use
 
-Introduce difficulty levels
+Click the "Start Quiz" button.
 
-Implement accessibility improvements
+Read the rules and click "Continue".
 
-📄 License
-This project is licensed under the waleed39118 License .
+Answer each question before the timer runs out.
+
+View your score at the end.
+
+Replay or quit as you like!
+
+
+
 
 👨‍💻 Author
 waleed39118 – (https://github.com/waleed39118/Quiz-Game)
